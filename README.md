@@ -1,4 +1,6 @@
-## Docker Desktop for Windows
+# File with heading ## Docker Desktop for Windows
+<h1 align="center"><img src="https://placekitten.com/300/150"/></h1>
+
 
 ### Getting Docker Desktop for Windows
 
